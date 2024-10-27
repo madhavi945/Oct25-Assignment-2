@@ -1,5 +1,5 @@
 # Oct25-Assignment-2
-Project title : Assihnment 2
+Project title : Assignment 2
 
 Description : An issue tracks the progress of new features, bug fixing, or ideas team members propose. They constitute the cornerstone of GitHub project management; ideally, no action should proceed without an associated issue. The aim of every action you undertake should be geared toward resolving an issue.
 
